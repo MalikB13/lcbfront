@@ -1,0 +1,7 @@
+.bg-purple { background-color: #371c6e}
+
+.window-principal {
+  width: 100vh;
+  height: 90vh;
+  overflow-y: scroll;
+}
